@@ -1,6 +1,11 @@
 ## Project Overview
 
-Customer churn is one of the biggest challenges in banking, and this credit card dataset highlights the issue clearly.
+Customer churn is one of the biggest challenges in banking, and this credit card dataset highlights the issue clearly. The objective of this project is to analyze customer churn behavior in a credit card dataset and identify key factors influencing customer attrition. The goal is to generate actionable insights that can help improve customer retention and reduce churn rates.
+## Tools Used
+
+- SQL - Data Exploration and Analysis
+- Power BI - Dashboard Creation
+- Git & Github - Version Control
 ## Business Questions
 This project aimed to answer the following questions about bank customer churn:
 1. What is the gender distribution of churn?  
